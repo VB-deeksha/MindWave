@@ -1,10 +1,13 @@
-## Analysis of Covid 19 Data
-Analysed using:
+## Analysis of covid-19 data
+It has been analysed using Python libraries :
+• Numpy
+• Pandas
 • Matplotlib
 • Seaborn
-• Pandas, Numpy
+And the graphs has been plotted to analyse the data of covid-19.
 
-Steps involved in Data Analysis:
+##Steps involved in Data Analysis:
+
 1.Importing required packages
 
 2. Gathering Data
