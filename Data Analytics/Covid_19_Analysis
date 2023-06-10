@@ -7,6 +7,7 @@ It has been analysed using Python libraries :
 And the graphs has been plotted to analyse the data of covid-19.
 
 ##Steps involved in Data Analysis:
+
 1.Importing required packages
 
 2. Gathering Data
@@ -14,5 +15,3 @@ And the graphs has been plotted to analyse the data of covid-19.
 3. Transforming Data to our needs (Data Wrangling)
 
 4. Exploratory Data Analysis (EDA) and Visualization
-
-
